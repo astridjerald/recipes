@@ -7,7 +7,10 @@ Ingredients:
  - 1 teaspoon salt
  - 2 eggs
  - 1 cup milk
+<<<<<<< HEAD
  - 1/2 cup sunflower oil
+||||||| merged common ancestors
+>>>>>>> d9b9d8f17e4b5a08cc0aa3e7ddf4ea087b345603
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
